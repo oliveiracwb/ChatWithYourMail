@@ -23,7 +23,7 @@ To get started, ensure you have the following:
 
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/chatwithyourmail.git
+git clone https://github.com/oliveiracwb/chatwithyourmail.git
 ```
 
 Configure the script:
@@ -45,7 +45,7 @@ To interactively query your exported emails using RAG, follow these steps:
 
 1. **Clone and Prep txtask:**
    ```bash
-   git clone https://github.com/your-username/txtask.git
+   git clone https://github.com/oliveiracwb/txtask.git
    cd txtask
    ```
 
